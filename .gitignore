@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虛擬環境
+venv/
+env/
+ENV/
+
+# Chrome Driver
+chromedriver.exe
+
+# IDE
+.vscode/
+.idea/
+
+# 其他
+*.log
