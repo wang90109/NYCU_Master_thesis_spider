@@ -19,46 +19,57 @@ def get_advisors(driver, dept_uuid):
     """獲取系所的所有指導教授"""
     advisors = []
     page = 1
+    has_next = True
     
-    while True:
+    while has_next:
         url = f'https://thesis.lib.nycu.edu.tw/browse/advisor?scope={dept_uuid}&bbm.page={page}'
         print(f"\n正在掃描第 {page} 頁...")
         
         try:
             driver.get(url)
-            time.sleep(3)  # 等待頁面載入
+            # 等待頁面載入
+            time.sleep(3)
             
             # 等待教授連結出現
             wait = WebDriverWait(driver, 10)
-            advisor_links = wait.until(
-                EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'a.lead[href*="/browse/advisor"]'))
-            )
-            
-            if not advisor_links:
-                break
+            try:
+                advisor_links = wait.until(
+                    EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'a.lead.ng-star-inserted[href*="/browse/advisor"]'))
+                )
                 
-            # 收集此頁的教授資訊
-            for link in advisor_links:
-                name = link.text.strip()
-                href = link.get_attribute('href')
+                if not advisor_links:
+                    print(f"第 {page} 頁沒有找到教授連結")
+                    break
                 
-                # 只收集中文名字（包含至少一個中文字）
-                if any('\u4e00' <= char <= '\u9fff' for char in name):
-                    advisors.append({
-                        'name': name,
-                        'url': href
-                    })
-            
-            # 檢查是否有下一頁
-            next_buttons = driver.find_elements(By.CSS_SELECTOR, 'button[aria-label="Go to next page"]')
-            if not next_buttons or 'disabled' in next_buttons[0].get_attribute('class'):
-                break
+                # 收集此頁的教授資訊
+                for link in advisor_links:
+                    name = link.text.strip()
+                    href = link.get_attribute('href')
+                    
+                    # 只收集中文名字（包含至少一個中文字）
+                    if any('\u4e00' <= char <= '\u9fff' for char in name):
+                        print(f"找到教授：{name}")
+                        advisors.append({
+                            'name': name,
+                            'url': href
+                        })
                 
-            page += 1
-            
+                # 檢查是否有下一頁按鈕且未被禁用
+                next_buttons = driver.find_elements(By.CSS_SELECTOR, 'button[aria-label="Go to next page"]')
+                if not next_buttons or 'disabled' in next_buttons[0].get_attribute('class'):
+                    print("\n已到達最後一頁")
+                    has_next = False
+                else:
+                    page += 1
+                    print(f"繼續掃描下一頁...")
+                    
+            except Exception as e:
+                print(f"在第 {page} 頁處理教授連結時出錯: {str(e)}")
+                has_next = False
+                
         except Exception as e:
-            print(f"Error on page {page}: {str(e)}")
-            break
+            print(f"訪問第 {page} 頁時出錯: {str(e)}")
+            has_next = False
     
     return advisors
 
