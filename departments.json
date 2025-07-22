@@ -49,6 +49,16 @@
       "name": "英語教學研究所::Institute of Teaching English to Speakers of Other Languages",
       "uuid": "dd1f7e8a-fbbd-4310-8444-d74049912921",
       "url": "https://thesis.lib.nycu.edu.tw/collections/dd1f7e8a-fbbd-4310-8444-d74049912921"
+    },
+    {
+      "name": "視覺文化研究所::Institute of Visual Studies",
+      "uuid": "5efec900-4cd0-4afa-af46-99c074c7929c",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/5efec900-4cd0-4afa-af46-99c074c7929c"
+    },
+    {
+      "name": "音樂研究所::Institute of Music",
+      "uuid": "89d44cdf-e493-4ccb-91d1-15eb0a5e06d6",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/89d44cdf-e493-4ccb-91d1-15eb0a5e06d6"
     }
   ],
   "光電學院::College of Photonics": [
@@ -170,6 +180,11 @@
       "url": "https://thesis.lib.nycu.edu.tw/collections/d1c7b9d1-e14e-410d-92c9-9fdf6a54f51c"
     },
     {
+      "name": "工學院專班-永續環境科技學程",
+      "uuid": "0e2ddd8d-9c66-4fb6-9fe6-bd84833126ba",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/0e2ddd8d-9c66-4fb6-9fe6-bd84833126ba"
+    },
+    {
       "name": "工學院專班-產業安全與防災學程::Degree Program of Industrial Safety and Risk Management",
       "uuid": "d4d0d16d-21af-4509-b8a2-da9bce822b3d",
       "url": "https://thesis.lib.nycu.edu.tw/collections/d4d0d16d-21af-4509-b8a2-da9bce822b3d"
@@ -183,6 +198,51 @@
       "name": "工學院碩士在職專班-永續科技組::Degree Program of Sustainable Technology on Envirnmental Protection",
       "uuid": "8ed24e1a-8bc1-4404-9007-ecf17aae0ff7",
       "url": "https://thesis.lib.nycu.edu.tw/collections/8ed24e1a-8bc1-4404-9007-ecf17aae0ff7"
+    },
+    {
+      "name": "平面顯示技術碩士學位學程::Degree Program of Flat Panel Display Technology",
+      "uuid": "1d2192a0-804f-4c39-971b-eed788fda1a8",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/1d2192a0-804f-4c39-971b-eed788fda1a8"
+    },
+    {
+      "name": "材料科學與工程學系::Department of Materials Science and Engineering",
+      "uuid": "88e80eb3-3c60-4f98-92b1-fed1f9e481ce",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/88e80eb3-3c60-4f98-92b1-fed1f9e481ce"
+    },
+    {
+      "name": "材料科學與工程學系奈米科技::Graduate Program of Nanotechnology, Department of Materials Science and Engineering",
+      "uuid": "e780d1eb-29fe-4a2b-a25c-53fb682a5147",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/e780d1eb-29fe-4a2b-a25c-53fb682a5147"
+    },
+    {
+      "name": "材料科學與工程學系奈米科技博士班::Institute of Nanotechnology",
+      "uuid": "6ab1b53f-b06f-43a3-a934-8b282194df2c",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/6ab1b53f-b06f-43a3-a934-8b282194df2c"
+    },
+    {
+      "name": "機器人碩士學位學程::Graduate Degree Program of Robotics",
+      "uuid": "8aa8da29-e34e-460c-ac76-eca05cd3c6d0",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/8aa8da29-e34e-460c-ac76-eca05cd3c6d0"
+    },
+    {
+      "name": "機械工程學系::Department of Mechanical Engineering",
+      "uuid": "1f446a3e-0774-4a29-9a3a-9963d7fdf506",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/1f446a3e-0774-4a29-9a3a-9963d7fdf506"
+    },
+    {
+      "name": "環境工程研究所::Institute of Environmental Engineering",
+      "uuid": "e9496a75-7901-4697-afb9-f63e13cde591",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/e9496a75-7901-4697-afb9-f63e13cde591"
+    },
+    {
+      "name": "環境科技博士學位學程(台灣聯合大學系統)::International Ph.D. Program in Environmental Science and Technology (University System of Taiwan)",
+      "uuid": "05d1f17b-877b-4423-9a8d-17ca25adea8c",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/05d1f17b-877b-4423-9a8d-17ca25adea8c"
+    },
+    {
+      "name": "聲音與音樂創意科技碩士學位學程::Master Program of Sound and Music Innovative Technologies",
+      "uuid": "dbcf20f1-673c-4f80-9be2-aa9a97a3b3de",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/dbcf20f1-673c-4f80-9be2-aa9a97a3b3de"
     }
   ],
   "工程生物科學學院::College of Engineering Bioscience": [
@@ -316,6 +376,11 @@
       "name": "跨領域分子科學國際碩士學位學程::International Master of Science Program for Interdisciplinary Molecular Science of Materials and Chemical Biology",
       "uuid": "9a3eccf1-c7f0-4338-86c7-8f64e0322bc2",
       "url": "https://thesis.lib.nycu.edu.tw/collections/9a3eccf1-c7f0-4338-86c7-8f64e0322bc2"
+    },
+    {
+      "name": "電子物理學系::Department of Electrophysics",
+      "uuid": "95deef74-29d3-490f-bc7a-b7d23108f843",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/95deef74-29d3-490f-bc7a-b7d23108f843"
     }
   ],
   "生命科學院::College of Life Sciences": [
@@ -368,6 +433,21 @@
       "name": "跨領域分子醫學碩士學位學程::Interdisciplinary Master Program in Molecular Medicine",
       "uuid": "8ba5deef-73fe-48d3-a464-ae8aeea85da5",
       "url": "https://thesis.lib.nycu.edu.tw/collections/8ba5deef-73fe-48d3-a464-ae8aeea85da5"
+    },
+    {
+      "name": "跨領域神經科學博士學位學程 (台灣聯合大學系統)::Interdisciplinary neuroscience Ph.D. degree program (University System of Taiwan)",
+      "uuid": "c41e8236-6d93-47f4-8c94-bbe28b3f7a3f",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/c41e8236-6d93-47f4-8c94-bbe28b3f7a3f"
+    },
+    {
+      "name": "跨領域神經科學博士學位學程(台灣聯合大學系統)::Graduate Degree Program of Interdisciplinary neuroscience(University System of Taiwan)",
+      "uuid": "f34fd574-5402-4d17-8048-1c688f6dadce",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/f34fd574-5402-4d17-8048-1c688f6dadce"
+    },
+    {
+      "name": "跨領域神經科學國際研究生博士學位學程::Taiwan International Graduate Program in Interdisciplinary Neuroscience",
+      "uuid": "5eaecac1-8358-49ba-b906-2413fa53e0d0",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/5eaecac1-8358-49ba-b906-2413fa53e0d0"
     }
   ],
   "生物科技學院::College of Biological Science and Technology": [
@@ -459,6 +539,81 @@
       "name": "科技管理研究所::Institute of Management of Technology",
       "uuid": "6e99d842-0eb6-4b84-a94a-df1a2edf7829",
       "url": "https://thesis.lib.nycu.edu.tw/collections/6e99d842-0eb6-4b84-a94a-df1a2edf7829"
+    },
+    {
+      "name": "管理學院專班-工業工程與管理學程",
+      "uuid": "f7d90b7c-7b98-4bf1-9d04-1b430acf04c5",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/f7d90b7c-7b98-4bf1-9d04-1b430acf04c5"
+    },
+    {
+      "name": "管理學院專班-科技管理學程",
+      "uuid": "9cee7c2b-a467-42f5-9772-ee3e571fc67a",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/9cee7c2b-a467-42f5-9772-ee3e571fc67a"
+    },
+    {
+      "name": "管理學院專班-管理科學學程",
+      "uuid": "f97ed274-1aac-4a15-bf4f-c56f70387bb2",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/f97ed274-1aac-4a15-bf4f-c56f70387bb2"
+    },
+    {
+      "name": "管理學院專班-經營管理學程",
+      "uuid": "970e8112-5f70-43c3-a0a6-4e90a3f6188e",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/970e8112-5f70-43c3-a0a6-4e90a3f6188e"
+    },
+    {
+      "name": "管理學院專班-財務金融學程",
+      "uuid": "7338a975-fd57-4c50-a1cf-86bb2c361153",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/7338a975-fd57-4c50-a1cf-86bb2c361153"
+    },
+    {
+      "name": "管理學院專班-資訊管理學程",
+      "uuid": "b6102ebc-469d-4f56-9962-d87e1cc7c5b9",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/b6102ebc-469d-4f56-9962-d87e1cc7c5b9"
+    },
+    {
+      "name": "管理學院專班-運輸物流學程",
+      "uuid": "8e49b011-3998-4c99-8a14-960344c31e2f",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/8e49b011-3998-4c99-8a14-960344c31e2f"
+    },
+    {
+      "name": "管理科學系::Department of Management Science",
+      "uuid": "0c1f638c-6499-415d-8e99-9e4f6a7154ef",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/0c1f638c-6499-415d-8e99-9e4f6a7154ef"
+    },
+    {
+      "name": "經營管理研究所::Institute of Business and Management",
+      "uuid": "f54444b0-1e64-44fa-ab03-5ee74e485ad8",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/f54444b0-1e64-44fa-ab03-5ee74e485ad8"
+    },
+    {
+      "name": "資訊管理研究所::Institute of Information Management",
+      "uuid": "f567463a-2622-4d01-b7e9-b35754609dc0",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/f567463a-2622-4d01-b7e9-b35754609dc0"
+    },
+    {
+      "name": "資訊管理與財務金融學系財務金融::Graduate Program of Finance, Department of Information Management and Finance",
+      "uuid": "2c35afc0-01fa-4669-be92-9020cd522fba",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/2c35afc0-01fa-4669-be92-9020cd522fba"
+    },
+    {
+      "name": "運輸與物流管理學系",
+      "uuid": "2a7880f7-6395-471c-b650-02f56c213666",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/2a7880f7-6395-471c-b650-02f56c213666"
+    },
+    {
+      "name": "運輸與物流管理學系交通運輸::Graduate Program of Traffic and Transportation, Department of Transportation and Logistics Management",
+      "uuid": "68d97299-c261-4c0b-8157-2986c61e846f",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/68d97299-c261-4c0b-8157-2986c61e846f"
+    },
+    {
+      "name": "運輸與物流管理學系物流管理::Graduate Program of Logistics Management, Department of Transportation and Logistics Management",
+      "uuid": "cc205464-c78e-4f9e-a606-46b8160cee4a",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/cc205464-c78e-4f9e-a606-46b8160cee4a"
+    },
+    {
+      "name": "高階主管管理碩士學程",
+      "uuid": "4d4a32f9-a4e1-4b8e-949f-50b707c3a2ea",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/4d4a32f9-a4e1-4b8e-949f-50b707c3a2ea"
     }
   ],
   "藥物科學院::College of Pharmaceutical Sciences": [
@@ -555,6 +710,26 @@
       "name": "資訊學院碩士在職專班::Degree Program of Computer Science",
       "uuid": "dd2e9f67-1377-4cc2-bdab-f1b765c42134",
       "url": "https://thesis.lib.nycu.edu.tw/collections/dd2e9f67-1377-4cc2-bdab-f1b765c42134"
+    },
+    {
+      "name": "資訊安全研究所",
+      "uuid": "ab05932a-8029-4da8-a18c-5f84152d5c07",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/ab05932a-8029-4da8-a18c-5f84152d5c07"
+    },
+    {
+      "name": "資訊科學與工程研究所::Institute of Computer Science and Engineering",
+      "uuid": "d2e7907f-ab93-4bb7-b4a5-f32c3102e417",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/d2e7907f-ab93-4bb7-b4a5-f32c3102e417"
+    },
+    {
+      "name": "資通安全碩士學位學程",
+      "uuid": "e2f3b52a-98aa-4117-b5d4-3012b4b83217",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/e2f3b52a-98aa-4117-b5d4-3012b4b83217"
+    },
+    {
+      "name": "資電亥客與安全碩士學位學程",
+      "uuid": "c465a9c1-c0b0-4d61-8de1-46a659663c3f",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/c465a9c1-c0b0-4d61-8de1-46a659663c3f"
     }
   ],
   "醫學院::College of Medicine": [
@@ -584,6 +759,11 @@
       "url": "https://thesis.lib.nycu.edu.tw/collections/f397ab5b-8b02-4460-8fc3-cf2225037ada"
     },
     {
+      "name": "智慧醫療與政策管理產業博士學位學程",
+      "uuid": "049aa2c2-be39-417e-867b-b1f61d9bc38e",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/049aa2c2-be39-417e-867b-b1f61d9bc38e"
+    },
+    {
       "name": "熱醫所博::Institute of Clinical Medicine",
       "uuid": "07040a81-b7db-43de-883e-81b66c81b76d",
       "url": "https://thesis.lib.nycu.edu.tw/collections/07040a81-b7db-43de-883e-81b66c81b76d"
@@ -602,6 +782,56 @@
       "name": "環境與職業衛生研究所::Institute of Environmental and Occupational Health Sciences",
       "uuid": "3af6e96a-3d8b-4eed-95db-16fc49896e41",
       "url": "https://thesis.lib.nycu.edu.tw/collections/3af6e96a-3d8b-4eed-95db-16fc49896e41"
+    },
+    {
+      "name": "生物醫學資訊研究所::Institute of Biomedical Informatics",
+      "uuid": "1fa912af-afb8-4b54-b7f5-ef6c18fa8d24",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/1fa912af-afb8-4b54-b7f5-ef6c18fa8d24"
+    },
+    {
+      "name": "生理學研究所::Institute of Physiology",
+      "uuid": "f439340a-656a-4a52-8f15-7d4a2a10ba97",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/f439340a-656a-4a52-8f15-7d4a2a10ba97"
+    },
+    {
+      "name": "腦科學研究所::Institute of Brain Science",
+      "uuid": "4fa3523e-0f33-4a25-8c9c-bc0ea0d5313f",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/4fa3523e-0f33-4a25-8c9c-bc0ea0d5313f"
+    },
+    {
+      "name": "臨床醫學研究所::Institute of Clinical Medicine",
+      "uuid": "82e2ea64-d0bc-43c3-91b4-0e15437add73",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/82e2ea64-d0bc-43c3-91b4-0e15437add73"
+    },
+    {
+      "name": "藥理學研究所::Institute of Pharmacology",
+      "uuid": "a2b24c49-809f-452a-86e5-3ea66e77c0d9",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/a2b24c49-809f-452a-86e5-3ea66e77c0d9"
+    },
+    {
+      "name": "衛生福利研究所::Institute of Health and Welfare Policy",
+      "uuid": "5f06ff17-14b0-434b-b881-e183a9f799ac",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/5f06ff17-14b0-434b-b881-e183a9f799ac"
+    },
+    {
+      "name": "解剖學及細胞生物學研究所::Institute of Anatomy and Cell Biology",
+      "uuid": "5e06fd00-6791-4ccf-a760-81c92e3753df",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/5e06fd00-6791-4ccf-a760-81c92e3753df"
+    },
+    {
+      "name": "跨領域醫學博士學位學程::Ph.D. Program of Interdisciplinary Medicine",
+      "uuid": "2b158965-c794-4edd-8d10-c351718fbd51",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/2b158965-c794-4edd-8d10-c351718fbd51"
+    },
+    {
+      "name": "轉譯醫學博士學位學程::Doctoral Degree Program of Translational Medicine",
+      "uuid": "2f18c970-a31d-4555-8edb-036dd4a1d091",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/2f18c970-a31d-4555-8edb-036dd4a1d091"
+    },
+    {
+      "name": "醫務管理研究所::Institute of Hospital and Health Care Administration",
+      "uuid": "9ad9a543-5072-4b5d-81d9-a2252ec6019c",
+      "url": "https://thesis.lib.nycu.edu.tw/collections/9ad9a543-5072-4b5d-81d9-a2252ec6019c"
     }
   ],
   "電機學院::College of Electrical and Computer Engineering": [
@@ -633,7 +863,7 @@
     {
       "name": "電子研究所::Institute of Electronics",
       "uuid": "d4cc991f-2345-489c-bac7-ce3483b1c836",
-      "url": "https://thesis.lib.nycu.cedu.tw/collections/d4cc991f-2345-489c-bac7-ce3483b1c836"
+      "url": "https://thesis.lib.nycu.edu.tw/collections/d4cc991f-2345-489c-bac7-ce3483b1c836"
     },
     {
       "name": "電控工程研究所::Institute of Electrical and Control Engineering",
